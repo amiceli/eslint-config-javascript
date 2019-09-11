@@ -1,4 +1,4 @@
-# eslint-config-javascript
+# [eslint-config-javascript](https://www.npmjs.com/package/@amiceli/eslint-config-javascript)
 
 ## Install
 

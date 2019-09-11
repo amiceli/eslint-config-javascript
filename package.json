@@ -1,7 +1,7 @@
 {
     "name": "@amiceli/eslint-config-javascript",
     "description": "My custom eslint config based on airbnb rules",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "main": "index.js",
     "dependencies": {
@@ -11,5 +11,9 @@
         "eslint-plugin-jsx-a11y": "^6.2.3",
         "eslint-plugin-react": "^7.14.3",
         "eslint-plugin-react-hooks": "^1.7.0"
+    },
+    "repository": {
+	    "type": "git",
+	    "url": "https://github.com/amiceli/eslint-config-javascript.git"
     }
 }
