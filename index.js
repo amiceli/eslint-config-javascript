@@ -4,7 +4,7 @@ module.exports = {
         node : true
     },
     extends : [
-        'airbnb'
+        'airbnb-base'
     ],
     rules : {
         'no-console' : process.env.NODE_ENV === 'production' ? 'error' : 'off',
